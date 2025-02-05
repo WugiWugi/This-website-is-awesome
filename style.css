@@ -1,0 +1,197 @@
+/*Шапка*/
+
+*{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0%;
+  padding: 0;
+}
+
+.header{
+    background-color: #223044;
+    width: 100%;
+    height: 550px;
+    margin-bottom: 40px;
+}
+
+.top-Of-The-Cap{
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    align-items: center;
+    padding: 0px 320px 0px 320px;
+    width: 100%;
+    height: 70px;
+    margin-bottom: 110px;
+
+}
+
+.logo{
+    font-size: 24px;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+
+}
+
+ul{
+    display: flex; 
+    gap: 30px; 
+    list-style: none;
+
+}
+
+.nav-Link{
+    text-decoration: none;
+    color: inherit;
+    color: aliceblue;
+}
+
+.middle-Of-The-Cap{
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 0px 320px 0px 320px;
+    height: 240px;
+    width: 100%;
+}
+
+.the-Site-Theme-Block{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.topic{      
+    font-weight: 600;
+    font-size: 48px;
+    color: aliceblue;
+    margin-bottom: 1px;
+}
+
+.description-Of-The-Topic{
+    font-size: 18px;
+    color: aliceblue;
+    margin-bottom: 10px;
+
+}
+
+.the-Sign-Up-Button{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    background-color: rgb(59, 125, 211);
+    height: 35px;
+    width: 125px;
+    border-radius: 6px;
+    color: aliceblue;
+    font-weight: 550;
+}
+
+.website-Theme-Image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 10px, solid, rgb(59, 125, 211);
+    border-radius: 15px;
+    color: aliceblue;
+}
+
+/*Шапка*/
+
+/*Меню*/
+
+.menu-Theme{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    width: 100%;
+    color: #223044;
+    font-size: 36px;
+    font-weight: 800;
+    margin-bottom: 50px;
+}
+
+.menu{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0px 550px 0px 550px;
+    margin-bottom: 120px;
+}
+
+.square{
+    height: 150px;
+    width: 150px;
+    border-radius: 10%;
+    border: 3px solid  rgb(59, 125, 211);
+}
+
+.The-Description-Under-The-Squares{
+text-align: center;
+margin: 10px;
+}
+
+.information-From-The-Website-Menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: 100;
+    height: 400px;
+    width: 100%;
+    background-color: #E5E7EB;
+    font-weight: lighter;
+}
+
+/*Меню*/
+
+/*Подвал*/
+
+.footer{
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(59, 125, 211);
+    border-radius: 5px;
+    height: 140px;
+    width: 1000px;
+    padding: 0px 100px 0px 100px;
+    margin: 100px 400px 100px 450px;
+}
+
+.basement-Text{
+    align-self: center;
+    color: #ffffff;
+    font-weight: 550;
+    font-size: 20px;
+}
+
+.description-Of-The-Basement-Text{
+ font-weight: 100;
+ font-size: 15px;
+}
+
+.sign-Up{
+    align-self: center;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    border: 2px solid rgb(255, 255, 255);
+    height: 35px;
+    width: 125px;
+    border-radius: 6px;
+    color: aliceblue;
+    font-weight: 550;
+}
+
+.the-Site-End-Block{
+    width: 100%;
+    height: 100px;
+    background-color: #223044
+}
+
+/*Подвал*/

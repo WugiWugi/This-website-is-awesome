@@ -1,0 +1,2 @@
+Хочу сказать спасибо за предоставленное изображение
+ссылка на материал: https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FC561BAQGSqS0rytVaqA%2Fcompany-background_10000%2F0%2F1585487855873%2Fhiveblockchain_cover%3Fe%3D2147483647%26v%3Dbeta%26t%3DAt6LFflmbGeGYCwz4KKgAK2ZWjGDaqvUn7bh9UbhVqQ&lr=1106&p=1&pos=7&rpt=simage&text=%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%20hive%20png
