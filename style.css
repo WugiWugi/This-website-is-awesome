@@ -160,7 +160,7 @@ margin: 10px;
     height: 140px;
     width: 1000px;
     padding: 0px 100px 0px 100px;
-    margin: 100px 400px 100px 450px;
+    margin: 100px auto;
 }
 
 .basement-Text{
